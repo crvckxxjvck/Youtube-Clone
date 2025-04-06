@@ -30,4 +30,4 @@ Optimized for multiple screen resolutions:
 - **< 950px** – 1 column.
 
 ## Deployment
-Run the project by opening `index.html` in a browser or use the link: [Youtube Clone](https://crvckxxjvck.github.io/Youtube-Clone). All styles are locally linked.
+Run the project by opening `index.html` in a browser or use the link: [Youtube Clone](https://crvckxxjvck.github.io/Youtube-Clone).
