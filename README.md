@@ -30,4 +30,4 @@ Optimized for multiple screen resolutions:
 - **< 950px** – 1 column.
 
 ## Deployment
-Run the project by opening `index.html` in a browser or use the link: [Youtube Clone](https://vlad1shpota.github.io/Youtube-Clone).
+Run the project by opening `index.html` in a browser or use the link: [Youtube Clone](https://youtube-clone-lay0ut.netlify.app/).
